@@ -1,0 +1,9 @@
+.dockerignore
+node_modules
+npm-debug.log
+mime
+mime.cmd
+mime.ps1
+HISTORY.md
+README.md
+CHANGELOG.md
